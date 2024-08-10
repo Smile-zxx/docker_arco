@@ -3,7 +3,7 @@ import { isSSR } from '@/utils/is';
 
 import './user';
 import './message-box';
-
+console.log("good")
 if (!isSSR) {
   Mock.setup({
     timeout: '500-1500',
