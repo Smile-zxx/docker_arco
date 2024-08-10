@@ -1,0 +1,1 @@
+import{a as s,ak as i,j as e,T as a}from"./vendor.fe3c3388.js";/* empty css              */function t(){return s(i,{style:{height:"80vh"},children:[e(a.Title,{heading:6,children:"This is a very basic and simple page"}),e(a.Text,{children:"You can add content here :)"})]})}export{t as default};
